@@ -1,0 +1,1 @@
+liquibase --changeLogFile=liquibase.sql update

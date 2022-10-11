@@ -1,0 +1,1 @@
+Create Table department (id INT NOT NULL, name Varchar(50));
